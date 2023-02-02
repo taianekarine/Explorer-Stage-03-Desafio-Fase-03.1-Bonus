@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto - Avalie seu Mentor - Formulárrio </h1>
+<h1 align="center"> Projeto - Avalie seu Mentor - Formulário </h1>
 
 <p align="center">
 Projeto desenvolvido como desafio de desenvolver um formulário intermediário de acordo com o que foi visto nas aulas da fase 01 do Stage 03 do programa Explorer da Rocketseat.
