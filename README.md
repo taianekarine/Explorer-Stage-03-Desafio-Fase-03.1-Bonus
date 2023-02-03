@@ -51,4 +51,4 @@ https://www.figma.com/file/91BCUpdJ5lCAtxuDMpNabn/Stage-03---Formul%C3%A1rio-ava
 
 ---
 
-Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com 🧡 by Taiane Karine
