@@ -49,6 +49,6 @@ https://www.figma.com/file/91BCUpdJ5lCAtxuDMpNabn/Stage-03---Formul%C3%A1rio-ava
 - Campo checkbox;
 - Imagem centralizada no header.
 
----
+--
 
 Feito com 🧡 by Taiane Karine
