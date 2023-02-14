@@ -38,10 +38,10 @@ Link do Figma:
 https://www.figma.com/file/91BCUpdJ5lCAtxuDMpNabn/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=10%3A17&t=4KxukjM2osdSltMU-0
 ## Aprendizado
 
-- Ferramentas dev do navegador
-- Posicionando textos e elementos
-- Acessibilidade
-- Tags semânticas
+- Ferramentas dev do navegador;
+- Posicionando textos e elementos;
+- Acessibilidade;
+- Tags semânticas;
 - Campo input;
 - Campo textarea;
 - Button;
